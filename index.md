@@ -17,7 +17,6 @@ layout: default
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
-
 # Work Experience
 
 Add work experiences
@@ -43,4 +42,19 @@ Add tools
 ## Topics
 
 Add topics
+
+***
+
+# Projects
+<head>
+<style>
+<link rel="stylesheet" href="/assets/css/logo.css">
+</style>
+</head>
+<div class="polaroid">
+  <img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=2000" style="width:100%; border-radius: 5px;">
+  <div class="container">
+  <p> Test project 1</p>
+  </div>
+</div>
 
