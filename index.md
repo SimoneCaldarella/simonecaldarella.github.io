@@ -43,6 +43,8 @@ Add tools
 
 Add topics
 
+[Link to another page](./another-page.html).
+
 ***
 
 # Projects
@@ -53,8 +55,9 @@ Add topics
 </head>
 
 
+
 <div class="polaroid">
-<a href="/_projects/another-page.html">
+<a href="./another-page.html">
       <span class="link"></span>
 
   <img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=2000" style="width:100%; border-radius: 5px;">

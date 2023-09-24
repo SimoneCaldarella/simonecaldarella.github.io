@@ -1,4 +1,3 @@
-<div class="tip" markdown="1">
 ---
 layout: default
 ---
@@ -8,4 +7,3 @@ layout: default
 _yay_
 
 [back](./)
-</div>
