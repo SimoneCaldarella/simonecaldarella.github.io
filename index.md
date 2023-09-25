@@ -53,9 +53,10 @@ Thesis: "DeepFake: a technological evolution with use cases between threats and 
 
 # Publications
 
-> ["Evaluation of Response Generation Models: Shouldn't It Be Shareable and Replicable?"](https://aclanthology.org/2022.gem-1.12.pdf). Seyed Mahed Mousavi, Gabriel Roccabruna, Michela Lorandi, Simone Caldarella, Giuseppe Riccardi. **GEM WorkShop @ EMNLP 2022**
 
 > ["Response Generation in Longitudinal Dialogues: Which Knowledge Representation Helps?"](https://aclanthology.org/2023.nlp4convai-1.1.pdf). Seyed Mahed Mousavi, Simone Caldarella, Giuseppe Riccardi. **NLP4ConvAI WorkShop @ ACL 2023**
+
+> ["Evaluation of Response Generation Models: Shouldn't It Be Shareable and Replicable?"](https://aclanthology.org/2022.gem-1.12.pdf). Seyed Mahed Mousavi, Gabriel Roccabruna, Michela Lorandi, Simone Caldarella, Giuseppe Riccardi. **GEM WorkShop @ EMNLP 2022**
 
 # Achievements
 
