@@ -19,7 +19,41 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Work Experience
 
-Add work experiences
+> ## Data Scientist @ [Evoluzione Agency](https://evoluzione.agency)
+>  *Part-Time | April 2023 | October 2023, Brescia*
+
+Worked in R&D on the topics of **Short Text Topic Modeling**, **Query Clustering** and **TimeSeries Forecasting** to develop a tool for SEO management. <br>
+
+* Development of a proprietary algorithm for short text modeling and clustering addressing several issues of query analysis
+* Development of a time series forecasting algorithm using Neural Prophet
+* Implementation and Testing of a backend infrastracture using FastAPI and PostgreSQL
+
+Involved in an Agile Software Development environment.
+
+<br>
+
+> ## Computer Vision Engineer @ [Toyota Motor Europe](https://www.toyota-europe.com)
+> *Internship | July 2022 - January 2023 | Brussels*
+
+Worked in TME Autonomated Driving team doing research on the topics of **Novelty Detection** and **Continual Learning** applied to **Autonomous Driving**. <br>
+
+* Development of a new framework for Novelty/Outlier Detection involving a Continual Learning setting with Human FeedBack
+* Implementation and Fine-Tuning of Object Recognition models and Outlier Detection techniques using Detectron2 and PyTorch
+* Writing of a conference article
+
+Article in progress and patent filed.
+
+<br>
+
+> ## NLU Researcher @ [SISLab DISI UniTN](https://sisl.disi.unitn.it)
+> *Internship | Jan 2022 - June 2022 | Trento*
+
+Worked on research project about **Knowledge-Aware** Dialogue **Response Generation** applied to mental health domain. <br>
+
+* Development of Seq2Seq w/ Attention from scratch using PyTorch
+* Adaptation and Fine-tuning of T5 (LLM) model on a custom dataset using HuggingFace and PyTorch
+* Evaulation of the model under several intrisic metrics (BLEU, F1, simBoW) with the help of Plotly and Weight\&Biases
+* Contributed to the development of two workshop articles
 
 # Education
 
