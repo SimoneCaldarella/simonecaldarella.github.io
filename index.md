@@ -15,12 +15,12 @@ layout: default
 
 ***
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+Hi 🖖! I'm Simone and I'm thrilled to have you here on my personal website. I'm not great at writing bios, but I'll give it a shot! 😄 I'm an AI Engineer with a passion for research and software design. When I'm not immersed in writing ~~spaghetti~~ code or reading the newest Python PePs, you can find me playing guitar or reading books to keep the creative juices flowing.
 
 # Work Experience
 
 > ## Data Scientist @ [Evoluzione Agency](https://evoluzione.agency)
->  *Part-Time | April 2023 | October 2023, Brescia*
+>  *Part-Time • April 2023 - Oct 2023 • Brescia, Italy*
 
 Worked in R&D on the topics of **Short Text Topic Modeling**, **Query Clustering** and **TimeSeries Forecasting** to develop a tool for SEO management. <br>
 
@@ -30,7 +30,7 @@ Worked in R&D on the topics of **Short Text Topic Modeling**, **Query Clustering
 * Involved in an Agile Software Development environment.
 
 > ## Computer Vision Engineer @ [Toyota Motor Europe](https://www.toyota-europe.com)
-> *Internship | July 2022 - January 2023 | Brussels*
+> *Internship • July 2022 - Jan 2023 • Brussels, Belgium*
 
 Worked in TME Autonomated Driving team doing research on the topics of **Novelty Detection** and **Continual Learning** applied to **Autonomous Driving**. <br>
 
@@ -40,7 +40,7 @@ Worked in TME Autonomated Driving team doing research on the topics of **Novelty
 * Article in progress and patent filed.
 
 > ## NLU Researcher @ [SISLab DISI UniTN](https://sisl.disi.unitn.it)
-> *Internship | Jan 2022 - June 2022 | Trento*
+> *Internship • Jan 2022 - June 2022 • Trento, Italy*
 
 Worked on research project about **Knowledge-Aware** Dialogue **Response Generation** applied to mental health domain. <br>
 
@@ -52,20 +52,20 @@ Worked on research project about **Knowledge-Aware** Dialogue **Response Generat
 # Education
 
 > ## Artificial Intelligence Systems | *MSc*
-> *110/110 with Honours | July 2023, University of Trento (TN)*
+> *110/110 with Honours • July 2023 • University of Trento, Italy*
 
 Thesis: "Incremental Novelty Detection with FeedBack Loop"
 
-> ## Information Engineering and Computer Science | *BSc*
-> *101/110 | October 2020, University of Brescia (BS)*
+> ## Computer Science & Engineering | *BSc*
+> *101/110 • October 2020 • University of Brescia, Italy*
 
 Thesis: "DeepFake: a technological evolution with use cases between threats and opportunities"
 
 # Publications
 
-> [**"Evaluation of Response Generation Models: Shouldn't It Be Shareable and Replicable?"**](https://aclanthology.org/2022.gem-1.12.pdf). *Seyed Mahed Mousavi, Gabriel Roccabruna, Michela Lorandi, Simone Caldarella, Giuseppe Riccardi.* GEM WorkShop @ EMNLP 2022
+> ["Evaluation of Response Generation Models: Shouldn't It Be Shareable and Replicable?"](https://aclanthology.org/2022.gem-1.12.pdf). Seyed Mahed Mousavi, Gabriel Roccabruna, Michela Lorandi, Simone Caldarella, Giuseppe Riccardi. **GEM WorkShop @ EMNLP 2022**
 
-> [**"Response Generation in Longitudinal Dialogues: Which Knowledge Representation Helps?"**](https://aclanthology.org/2023.nlp4convai-1.1.pdf). *Seyed Mahed Mousavi, Simone Caldarella, Giuseppe Riccardi.* NLP4ConvAI WorkShop @ ACL 2023.
+> ["Response Generation in Longitudinal Dialogues: Which Knowledge Representation Helps?"](https://aclanthology.org/2023.nlp4convai-1.1.pdf). Seyed Mahed Mousavi, Simone Caldarella, Giuseppe Riccardi. **NLP4ConvAI WorkShop @ ACL 2023**
 
 # Achievements
 
@@ -97,6 +97,13 @@ Thesis: "DeepFake: a technological evolution with use cases between threats and 
 ***
 
 # Projects
+
+<div class="polaroid">
+<img src="./assets/img/undermant3.jpg" style="width:100%;">
+</div>
+
+<!---
+
 <head>
 <style>
 <link rel="stylesheet" href="/assets/css/logo.css">
@@ -109,11 +116,11 @@ Thesis: "DeepFake: a technological evolution with use cases between threats and 
 <a href="./another-page.html">
       <span class="link"></span>
 
-  <img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=2000" style="width:100%; border-radius: 5px;">
   <div class="container">
   <p> Test project 1</p>
   </div>
   </a>
 </div>
+--->
 
 
