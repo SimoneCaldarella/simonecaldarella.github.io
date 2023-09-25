@@ -2,20 +2,9 @@
 layout: default
 ---
 
-<dl>
-<dt>Email</dt>
-<dd><a href= "mailto:simone.caldarella98@gmail.com">simone.caldarella98@gmail.com</a></dd>
-<dt>LinkedIn</dt>
-<dd><a href= "https://www.linkedin.com/in/simone-caldarella-16930b16a/">Personal Account</a></dd>
-<dt>Github</dt>
-<dd><a href= "https://github.com/SimoneCaldarella/">@SimoneCaldarella</a></dd>
-<dt>Blog</dt>
-<dd><a href= "https://lifeofaprocrastinator.github.io/">Loap-Project</a></dd>
-</dl>
+Hi 🖖! I'm Simone and I'm thrilled to have you here on my personal website. I'm not great at writing bios, but I'll give it a shot! 😄 I'm an AI Engineer with a passion for research and software design. When I'm not immersed in writing ~~spaghetti~~ code or reading the newest Python PePs, you can find me playing guitar or reading books to keep the creative juices flowing.
 
 ***
-
-Hi 🖖! I'm Simone and I'm thrilled to have you here on my personal website. I'm not great at writing bios, but I'll give it a shot! 😄 I'm an AI Engineer with a passion for research and software design. When I'm not immersed in writing ~~spaghetti~~ code or reading the newest Python PePs, you can find me playing guitar or reading books to keep the creative juices flowing.
 
 # Work Experience
 
@@ -94,7 +83,19 @@ Thesis: "DeepFake: a technological evolution with use cases between threats and 
 
 [DataScience](https://www.google.com/search?q=datascience) •  [SoftwareEngineering](https://www.google.com/search?q=software+engineering) • [SoftwareDesign](https://www.google.com/search?q=software+design) • [TDD](https://www.google.com/search?q=test+driven+development) • [Agile](https://www.google.com/search?q=agile)
 
-***
+# Contacts
+<dl>
+<dt>Email</dt>
+<dd><a href= "mailto:simone.caldarella98@gmail.com">simone.caldarella98@gmail.com</a></dd>
+<dt>LinkedIn</dt>
+<dd><a href= "https://www.linkedin.com/in/simone-caldarella-16930b16a/">Personal Account</a></dd>
+<dt>Github</dt>
+<dd><a href= "https://github.com/SimoneCaldarella/">@SimoneCaldarella</a></dd>
+<dt>Blog</dt>
+<dd><a href= "https://lifeofaprocrastinator.github.io/">Loap-Project</a></dd>
+</dl>
+
+<!---
 
 # Projects
 
@@ -102,7 +103,7 @@ Thesis: "DeepFake: a technological evolution with use cases between threats and 
 <img src="./assets/img/undermant3.jpg" style="width:100%;">
 </div>
 
-<!---
+
 
 <head>
 <style>

@@ -5,7 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/logo.css">
+    <link rel="stylesheet" href="/assets/css/footer.css">
+    <link rel="stylesheet" href="/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
     <style>
+      
       @import url('https://fonts.cdnfonts.com/css/sunday-orange');
     </style>
 
@@ -32,7 +35,40 @@
         {% endif %}
         
         <p style="text-align: left; margin-bottom: 1%">"{{ site.description | default: site.github.project_tagline }}"</p>
-        <p style="text-align: right; margin-top: 1%"> - Albert Einstein</p>
+        <p style="text-align: right; margin-top: 1%; margin-bottom: 2%"> - Albert Einstein</p>
+        
+        <div class="footcontainer">
+          <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+              <ul class="list-inline text-center">
+                <li class="list-inline-item">
+                  <a href="mailto:{{ site.email | encode_email }}">
+                    <span class="fa fa-stack fa-2x">
+                      <i class="fa fa-solid fa-circle fa-stack-2x"></i>
+                      <i class="fa fab fa-envelope fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                    <span class="fa fa-stack fa-2x">
+                      <i class="fa fa-solid fa-circle fa-stack-2x"></i>
+                      <i class="fa fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://github.com/{{ site.github_username }}">
+                    <span class="fa fa-stack fa-2x">
+                      <i class="fa fa-solid fa-circle fa-stack-2x"></i>
+                      <i class="fa fab fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -51,15 +87,14 @@
         {% endif %}
       </header>
       <section>
+  
 
       {{ content }}
 
       </section>
+
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br>Customized with ❤ by Simone</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

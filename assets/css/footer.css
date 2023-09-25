@@ -1,0 +1,46 @@
+div.footcontainer {
+    width: 75%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+div.col-lg-8 , div.col-md-10{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+div.mx-auto {
+    margin-left: auto !important
+}
+
+div.mx-auto {
+    margin-right: auto !important
+}
+
+ul.list-inline {
+    padding-left: 0;
+    list-style: none
+}
+
+li.list-inline-item {
+    display: inline-block
+}
+
+li.list-inline-item:not(:last-child) {
+    margin-right: .5rem
+}
+
+ul.text-center {
+    text-align: center !important
+}
