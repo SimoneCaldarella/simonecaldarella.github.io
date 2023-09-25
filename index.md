@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Hi 🖖! I'm Simone and I'm thrilled to have you here on my personal website. I'm not great at writing bios, but I'll give it a shot! 😄 I'm an AI Engineer with a passion for research and software design. When I'm not immersed in writing ~~spaghetti~~ code or reading the newest Python PePs, you can find me playing guitar or reading books to keep the creative juices flowing.
+# Hi 🖖! 
+I'm Simone and I'm thrilled to have you here on my personal website. I'm not great at writing bios, but I'll give it a shot! 😄 I'm an AI Engineer with a passion for research and software design. When I'm not immersed in writing ~~spaghetti~~ code or reading the newest Python PePs, you can find me playing guitar or reading books to keep the creative juices flowing.
 
-***
+<br>
 
 # Work Experience
 
