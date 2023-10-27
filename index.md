@@ -61,40 +61,40 @@ Thesis: "DeepFake: a technological evolution with use cases between threats and 
 # Achievements
 
 > ### Chairman
->IEEE Student Branch of Brescia 2018-2019
+> IEEE Student Branch of Brescia 2018-2019
 
 > ### 2° Place in Italy
->IEEEXtreme 2018 - International Hackathon organised by IEEE
+> IEEEXtreme 2018 - International Hackathon organised by IEEE
 
->### Judge and Mentor
->Nasa Space Apps Challenge Brescia 2019
+> ### Judge and Mentor
+> Nasa Space Apps Challenge Brescia 2019
 
 # Skills
 
->### Tools
+> ### Tools
 
-[Python](https://www.google.com/search?q=Python) • [Java](https://www.google.com/search?q=Java) • [LaTeX](https://www.google.com/search?q=LaTeX) • [Bash](https://www.google.com/search?q=Bash) • [C](https://www.google.com/search?q=c+programming+language) <br>
+Python • Java • LaTeX • Bash • C <br>
 
-[PyTorch](https://www.google.com/search?q=PyTorch) • [Detectron2](https://www.google.com/search?q=Detectron2) • [HuggingFace](https://www.google.com/search?q=HuggingFace) • [SpaCy](https://www.google.com/search?q=SpaCy) • [Scikit-Learn](https://www.google.com/search?q=Scikit-Learn) • [NLTK](https://www.google.com/search?q=NLTK) • [OpenCV](https://www.google.com/search?q=OpenCV) • [NeuralProphet](https://www.google.com/search?q=neural+prophet) • [Pandas](https://www.google.com/search?q=Pandas) • [Plotly](https://www.google.com/search?q=Plotly) • [NumPy](https://www.google.com/search?q=NumPy) • [AIM](https://www.google.com/search?q=AIM) • [TensorBoard](https://www.google.com/search?q=TensorBoard) • [Weight&Biases](https://www.google.com/search?q=weight+%26+biases) <br> 
+PyTorch • Detectron2 • HuggingFace • SpaCy • Scikit-Learn • NLTK • OpenCV • NeuralProphet • Pandas • Plotly • NumPy • AIM • TensorBoard • Weight&Biases <br> 
 
-[FastAPI](https://www.google.com/search?q=FastAPI) • [PostgreSQL](https://www.google.com/search?q=PostgreSQL) • [Psycopg2](https://www.google.com/search?q=Psycopg2) • [UnitTest](https://www.google.com/search?q=UnitTest+python) • [Jekyll](https://www.google.com/search?q=jekyll+static+website) • [Git](https://www.google.com/search?q=git) • [GitFlow](https://www.google.com/search?q=gitflow) • [Github](https://www.google.com/search?q=github) • [Jira](https://www.google.com/search?q=jira+agile) • [Excel](https://www.google.com/search?q=excel)
+FastAPI • PostgreSQL • Psycopg2 • UnitTest • Jekyll • Git • GitFlow • Github • Jira • Excel
 
 > ### Topics
 
-[ArtificialIntelligence](https://www.google.com/search?q=artificial+intelligence) • [DeepLearning](https://www.google.com/search?q=deep+learning) • [ComputerVision](https://www.google.com/search?q=computer+vision) • [NLP](https://www.google.com/search?q=natural+language+processing) • [LLMs](https://www.google.com/search?q=LLMs) • [DialogueGeneration](https://www.google.com/search?q=dialogue+generation) • [ContinualLearning](https://www.google.com/search?q=continual+learning) • [AnomalyDetection](https://www.google.com/search?q=anomaly+detection) • [QuantumMachineLearning](https://www.google.com/search?q=quantum+machine+learning) <br>
+ArtificialIntelligence • DeepLearning • ComputerVision • NLP • LLMs • DialogueGeneration • ContinualLearning • AnomalyDetection • QuantumMachineLearning <br>
 
-[DataScience](https://www.google.com/search?q=datascience) •  [SoftwareEngineering](https://www.google.com/search?q=software+engineering) • [SoftwareDesign](https://www.google.com/search?q=software+design) • [TDD](https://www.google.com/search?q=test+driven+development) • [Agile](https://www.google.com/search?q=agile)
+DataScience •  SoftwareEngineering • SoftwareDesign • TDD • Agile
 
 # Contacts
 <dl>
 <dt>Email</dt>
 <dd><a href= "mailto:simone.caldarella98@gmail.com">simone.caldarella98@gmail.com</a></dd>
 <dt>LinkedIn</dt>
-<dd><a href= "https://www.linkedin.com/in/simone-caldarella-16930b16a/">Personal Account</a></dd>
+<dd><a href= "https://www.linkedin.com/in/simone-caldarella-16930b16a/">simone-caldarella-16930b16a</a></dd>
 <dt>Github</dt>
 <dd><a href= "https://github.com/SimoneCaldarella/">@SimoneCaldarella</a></dd>
 <dt>Blog</dt>
-<dd><a href= "https://lifeofaprocrastinator.github.io/">Loap-Project</a></dd>
+<dd><a href= "https://lifeofaprocrastinator.blog/">Loap-Project</a></dd>
 </dl>
 
 <!---
